@@ -8,7 +8,7 @@
 theme: my_theme
 day_night: false
 font: 'Classic'
-font_size: L
+font_size: M
 
 # SEO
 
@@ -19,17 +19,25 @@ description: ''
 twitter: ''
 
 # Contact (edit or remove options as required)
-
-email: test@example.org
 contact_links:
+  - icon: envelope
+    icon_pack: fas
+    name: agupta4@stern.nyu.edu
+    link: 'mailto:agupta4@stern.nyu.edu'
   - icon: twitter
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
+    name: Twitter
+    link: 'https://twitter.com/Abhinav_Gupta91'
   - icon: skype
     icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
+    name: Skype
+    link: 'https://join.skype.com/invite/fGrzLFTPcgjB'
+  - icon: linkedin
+    icon_pack: fab
+    name: LinkedIn
+    link: 'https://www.linkedin.com/in/abhinav-gupta-81633891/'
+
+
 
 # Site header
 
