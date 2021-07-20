@@ -14,9 +14,22 @@ page_type: publication
 header:
   caption: ""
   image: ""
+
+design:
+  columns: '2'
+  spacing:
+    padding: ["10px","0","10px","0"]  
 ---
+ [<h2>International Trade and Social Connectedness</h2>](http://pages.stern.nyu.edu/~jstroebe/PDF/BGHKRS_InternationalTradeSocialConnectedness.pdf)
 
-Sample 1
+_with Mike Bailey, [Sebastian Hillenbrand](https://sites.google.com/stern.nyu.edu/sebastianhillenbrand/home), [Theresa Kuchler](http://pages.stern.nyu.edu/~tkuchler/), [Robert Richmond](https://robertjrichmond.com/), & [Johannes Stroebel](http://pages.stern.nyu.edu/~jstroebe/)_<br>
+Journal of International Economics, 129, 2021, 0022-1996 <br>
+Links: [Paper](http://pages.stern.nyu.edu/~jstroebe/PDF/BGHKRS_InternationalTradeSocialConnectedness.pdf), [SCI Data](https://data.humdata.org/dataset/social-connectedness-index.pdf),	[Replication](https://data.mendeley.com/datasets/7wddm84w9r/1)
 
-XXX
+{{< figure src="SCI.png" width="300">}}
+<p style="font-size:0.75em">
+We use de-identified data from Facebook to construct a new and publicly available measure of the pairwise social connectedness between 170 countries and 332 European regions. We find that two countries trade more when they are more socially connected, especially for goods where information frictions may be large. The social connections that predict trade in specific products are those between the regions where the product is produced in the exporting country and the regions where it is used in the importing country. Once we control for social connectedness, the estimated effects of geographic distance and country borders on trade decline substantially.  
+</p>
+
+
 

@@ -12,6 +12,10 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
+design:
+  spacing:
+    padding: ["10px","0","10px","0"]
+
 title: Abhinav Gupta
 
 # Choose the user profile to display

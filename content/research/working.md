@@ -14,6 +14,11 @@ page_type: publication
 header:
   caption: ""
   image: ""
+
+design:
+  columns: '2'
+  spacing:
+    padding: ["10px","0","10px","0"]
 ---
 
 Sample 1
