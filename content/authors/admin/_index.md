@@ -64,8 +64,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a fourth year Finance PhD candidate at NYU Stern School of Business. My research interests lie in empirical corporate finance with a focus on entrepreneurial finance, private equity, and firm value. I am especially interested in understanding how these topics interact with those in the broader economics discipline such as labor, and healthcare.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am currently completing my Ph.D. in Finance from NYU Stern. Prior to graduate school, I worked in management consulting for the financial industry. I hold a B.Tech. in Electrical Engineering (President's Silver Medal) from IIT Kharagpur, and an M.B.A. (Institute Gold Medal) from IIM Ahmedabad. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
