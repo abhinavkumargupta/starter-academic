@@ -21,7 +21,5 @@ design:
     padding: ["10px","0","10px","0"]  
 ---
 
-Sample 1
-
-XXX
+To be Updated
 

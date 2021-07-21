@@ -23,8 +23,8 @@ design:
  [<h2>International Trade and Social Connectedness</h2>](http://pages.stern.nyu.edu/~jstroebe/PDF/BGHKRS_InternationalTradeSocialConnectedness.pdf)
 
 _with Mike Bailey, [Sebastian Hillenbrand](https://sites.google.com/stern.nyu.edu/sebastianhillenbrand/home), [Theresa Kuchler](http://pages.stern.nyu.edu/~tkuchler/), [Robert Richmond](https://robertjrichmond.com/), & [Johannes Stroebel](http://pages.stern.nyu.edu/~jstroebe/)_<br>
-Journal of International Economics, 129, 2021, 0022-1996 <br>
-Links: [Paper](http://pages.stern.nyu.edu/~jstroebe/PDF/BGHKRS_InternationalTradeSocialConnectedness.pdf), [SCI Data](https://data.humdata.org/dataset/social-connectedness-index.pdf),	[Replication](https://data.mendeley.com/datasets/7wddm84w9r/1)
+**Published**: Journal of International Economics, 129, 2021, 0022-1996 <br>
+**Data Links**: [SCI Data](https://data.humdata.org/dataset/social-connectedness-index.pdf),	[Replication](https://data.mendeley.com/datasets/7wddm84w9r/1)
 
 ![screen reader text](SCI.jpg)
 <p style="font-size:0.75em">
