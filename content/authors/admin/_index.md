@@ -54,4 +54,4 @@ I am a fifth year Finance PhD candidate at NYU Stern School of Business. I will 
 
 I am currently completing my Ph.D. in Finance from NYU Stern. Prior to graduate school, I worked in management consulting for the financial industry. I hold a B.Tech. in Electrical Engineering (President's Silver Medal) from IIT Kharagpur, and an M.B.A. (Institute Gold Medal) from IIM Ahmedabad. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my [resumé](https://www.dropbox.com/s/rmdsosdry6vpodj/CV_Gupta_v4.pdf?dl=0).

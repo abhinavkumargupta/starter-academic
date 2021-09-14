@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Instructor"
 summary: Here we describe how to add a page to your site.
 date: "2018-06-28T00:00:00Z"
 
@@ -16,8 +16,9 @@ header:
   image: ""
 ---
 
-<h2> Risk Management in Financial Institutions </h2>
-Undergraduate Level, Spring 2021
+<h2> Foundations of Finance </h2>
+Undergraduate Level, NYU Stern, 2020
 
-Instructor: Prof. Anthony Saunders
+Sole instructor for the undergraduate course in Foundations Of Finance
 
+[Syllabus](https://www.dropbox.com/s/hwjdsn78jbpo14r/syllabus_foundations.pdf?dl=0) | [Evaluation](https://www.dropbox.com/s/hislxhm5nq4bq3p/Foundations.pdf?dl=0)
