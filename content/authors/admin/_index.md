@@ -50,7 +50,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a fourth year Finance PhD candidate at NYU Stern School of Business. My research interests lie in empirical corporate finance with a focus on entrepreneurial finance, private equity, and firm value. I am especially interested in understanding how these topics interact with those in the broader economics discipline such as labor, and healthcare.
+I am a fifth year Finance PhD candidate at NYU Stern School of Business. I will be on the 2022 academic job market. My research interests lie in empirical corporate finance with a focus on entrepreneurial finance, private equity, and firm value. I am especially interested in understanding how these topics interact with those in the broader economics discipline such as labor, and healthcare.
 
 I am currently completing my Ph.D. in Finance from NYU Stern. Prior to graduate school, I worked in management consulting for the financial industry. I hold a B.Tech. in Electrical Engineering (President's Silver Medal) from IIT Kharagpur, and an M.B.A. (Institute Gold Medal) from IIM Ahmedabad. 
 
