@@ -30,7 +30,7 @@ with Indian and Chinese employees in the ten days following the announcement The
 lowered the propensity of Indian and Chinese employees to join startups vis-a-vis incumbent firms. This distortion in labor supply to startups reduced new firm formation resulting in 12,000 fewer new startups in markets with more Indian and Chinese employees. It also decreased the funding and IPO of existing startups with Indian and Chinese co-founders. These results reinforce the differential impact of labor mobility on incumbents and startups and suggest that declining job-to-job transitions may help explain the slowing business dynamism in the US.
 </p>
 <p style="font-size:0.75em">
-Presentations: Fordham Rising Star Conference (Scheduled), Student Session at Workshop For Finance and Innovation (SEFI), NYU Stern, Inter-Finance PhD Seminar
+Presentations: Fordham Financial Market Workshop (Scheduled), Student Session at Workshop For Finance and Innovation (SEFI), NYU Stern, Inter-Finance PhD Seminar
 </p>
 
 
