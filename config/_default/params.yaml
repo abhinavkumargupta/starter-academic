@@ -120,3 +120,6 @@ comments:
 icon:
   pack:
     ai: true
+marketing:
+  google_analytics: "G-B14DKTT6LN"
+  google_tag_manager: "G-B14DKTT6LN"
