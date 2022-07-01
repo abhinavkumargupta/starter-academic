@@ -50,10 +50,8 @@ email: ""
 highlight_name: false
 ---
 
-I am a Finance PhD candidate at NYU Stern School of Business. My research interests lie in empirical corporate finance with a focus on entrepreneurial finance, private equity, and firm value. I am especially interested in understanding how these topics interact with those in the broader economics discipline such as labor, and healthcare.
+I am an Assistant Professor in Finance at University of North Carolina at Chapel Hill Kenan-Flagler Business School. My research interests lie in empirical corporate finance with a focus on entrepreneurial finance, private equity, and firm value. I am especially interested in understanding how these topics interact with those in the broader economics discipline such as labor, and healthcare.
 
-I am currently completing my Ph.D. in Finance from NYU Stern. Prior to graduate school, I worked in management consulting for the financial industry. I hold a B.Tech. in Electrical Engineering (President's Silver Medal) from IIT Kharagpur, and an M.B.A. (Institute Gold Medal) from IIM Ahmedabad. 
-
-This fall, I will join the Finance Department at University of North Carolina at Chapel Hill Kenan-Flagler Business School.
+I completed my Ph.D. in Finance from NYU Stern. Prior to graduate school, I worked in management consulting for the financial industry. I hold a B.Tech. in Electrical Engineering (President's Silver Medal) from IIT Kharagpur, and an M.B.A. (Institute Gold Medal) from IIM Ahmedabad. 
 
 {{< icon name="download" pack="fas" >}} Download my [resumé](https://www.dropbox.com/s/rmdsosdry6vpodj/CV_Gupta_v4.pdf?dl=0).
