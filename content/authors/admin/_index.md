@@ -54,4 +54,4 @@ I am an Assistant Professor in Finance at University of North Carolina at Chapel
 
 I completed my Ph.D. in Finance from NYU Stern. Prior to graduate school, I worked in management consulting for the financial industry. I hold a B.Tech. in Electrical Engineering (President's Silver Medal) from IIT Kharagpur, and an M.B.A. (Institute Gold Medal) from IIM Ahmedabad. 
 
-{{< icon name="download" pack="fas" >}} Download my [resumé](https://www.dropbox.com/s/rmdsosdry6vpodj/CV_Gupta_v4.pdf?dl=0).
+{{< icon name="download" pack="fas" >}} Download my [resumé](https://www.dropbox.com/s/533dwcvko0qi2si/CV_Gupta_v10.pdf?dl=0).
