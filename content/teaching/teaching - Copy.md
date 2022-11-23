@@ -15,10 +15,8 @@ header:
   caption: ""
   image: ""
 ---
+<h2> Financial Modeling </h2>
+Undergraduate Level, UNC Kenan-Flagler Business School, 2022
 
 <h2> Foundations of Finance </h2>
 Undergraduate Level, NYU Stern, 2020
-
-Sole instructor for the undergraduate course in Foundations Of Finance
-
-[Syllabus](https://www.dropbox.com/s/hwjdsn78jbpo14r/syllabus_foundations.pdf?dl=0) | [Evaluation](https://www.dropbox.com/s/hislxhm5nq4bq3p/Foundations.pdf?dl=0)

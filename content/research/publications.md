@@ -18,7 +18,7 @@ header:
 design:
   columns: '2'
   spacing:
-    padding: ["10px","0","10px","0"]  
+    padding: ["8px","0","8px","0"]  
 ---
  [<h2>International Trade and Social Connectedness</h2>](http://pages.stern.nyu.edu/~jstroebe/PDF/BGHKRS_InternationalTradeSocialConnectedness.pdf)
 
